@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolume
 metadata:
-  namespace: sasa
+  namespace: test
   name: minecraft-main-pv
   labels:
     app: minecraft-main
